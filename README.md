@@ -2,7 +2,7 @@
 
 This is a [ComputerCraft](https://github.com/SquidDev-CC/CC-Tweaked) program that automates the tedious crafting with the energizing orb from the [Powah mod](https://github.com/owmii/Powah). It was designed on Minecraft Version 1.16 running CC-Tweaked 1.95.2. The milage may vary on other versions.
 
-### It currently supports 5 recipes:
+### It currently supports 5 recipes
 - Energized Steel from Iron and Gold Ingots
 - Blazing Crystals from Blaze Rods
 - Niotic Crystals from Diamonds
